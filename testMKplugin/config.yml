@@ -1,0 +1,11 @@
+#------------------------
+# 	TrapDoor test
+#  by Sours/ Liam
+#------------------------
+Host: localhost
+Port: 3306
+Username: root
+Password: password123
+Database: trapdoor
+#-------------------
+Enabled: true
